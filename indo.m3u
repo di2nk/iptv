@@ -45,5 +45,5 @@ https://video.detik.com/transtv/smil:transtv-live.smil/playlist.m3u8
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans7 (720p)" tvg-logo="" group-title="Indonesia",Trans7 (720p)
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/gXL66eqWjcsfy6MRv_Midv048UE=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/874/0002e6.png" tvg-id="RIYAN.1e3c36eb8307a40a9f9e38d023757173.SHINTA" tvg-name" Kompas TV" group-title="Nasional", Kompas TV
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-name="Kompas TVV (720p)" tvg-logo="" group-title="Indonesia",Kompas TVV (720p)
 http://playlist.urfan.web.id/qwr9ew/s/s104/01.m3u8
