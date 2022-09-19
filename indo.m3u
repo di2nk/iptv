@@ -18,18 +18,6 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/tv/rcti
 https://d2s97x1gdf3esf.cloudfront.net/out/v1/c1c8f8c23f4e40f089a96ebda156816a/index.m3u8
 
-#EXTINF:-1 tvg-id="Mnctv.id" tvg-name="MNCTV (720p)" tvg-logo="" group-title="Indonesia",MNCTV (720p)
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/tv/mnctv
-https://d33j155pv2xyba.cloudfront.net/MNCTV_2021.m3u8
-
-#EXTINF:-1 tvg-id="Gtv.id" tvg-name="GTV (720p)" tvg-logo="" group-title="Indonesia",GTV (720p)
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/tv/gtv
-https://d322b885qvsbxg.cloudfront.net/GTV2021.m3u8
-
-#EXTINF:-1 tvg-id="Inews.id" tvg-name="INews (720p)" tvg-logo="" group-title="Indonesia",INews (720p)
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/tv/inews
-https://d2hfpzcndkyscp.cloudfront.net/out/v1/c1c8f8c23f4e40f089a96ebda156816a/index.m3u8
-
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar (480p) [Geo-blocked]" tvg-logo="" group-title="Indonesia",Indosiar (480p) [Geo-blocked]
 http://210.210.155.37/qwr9ew/s/s04/index.m3u8
 
