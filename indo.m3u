@@ -15,7 +15,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV (1080p)" tvg-logo="" group-title="Indonesia",GTV (1080p)
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/tv/gtv
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar (480p) [Geo-blocked]" tvg-logo="" group-title="Indonesia",Indosiar (480p) [Geo-blocked]
 http://210.210.155.37/qwr9ew/s/s04/index.m3u8
