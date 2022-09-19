@@ -1,50 +1,78 @@
 #EXTM3U url-tvg=""
 #EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV (480p) [Geo-blocked]" tvg-logo="" group-title="Indonesia",ANTV (480p) [Geo-blocked]
 http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
+
 #EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV (480p) [Geo-blocked]" tvg-logo="" group-title="Indonesia",ANTV (480p) [Geo-blocked]
 http://210.210.155.37/qwr9ew/s/s07/index1.m3u8
+
 #EXTINF:-1 tvg-id="BanjarTV.id" tvg-name="Banjar TV (720p) [Not 24/7]" tvg-logo="" group-title="Indonesia",Banjar TV (720p) [Not 24/7]
 https://v2.siar.us/banjartv/livestream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-name="CNBC Indonesia (720p)" tvg-logo="" group-title="Indonesia",CNBC Indonesia (720p)
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+
 #EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia (720p) [Geo-blocked]" tvg-logo="" group-title="Indonesia",CNN Indonesia (720p) [Geo-blocked]
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV (1080p)" tvg-logo="" group-title="Indonesia",GTV (1080p)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar (480p) [Geo-blocked]" tvg-logo="" group-title="Indonesia",Indosiar (480p) [Geo-blocked]
 http://210.210.155.37/qwr9ew/s/s04/index.m3u8
+
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar (480p) backup [Geo-blocked]" tvg-logo="" group-title="Indonesia",Indosiar (480p) backup [Geo-blocked]
 http://210.210.155.35/qwr9ew/s/s04/01.m3u8
+
 #EXTINF:-1 tvg-id="KompasTV.id" tvg-name="Kompas TV (720p)" tvg-logo="" group-title="Indonesia",Kompas TV (720p)
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
+
 #EXTINF:-1 tvg-id="KompasTV.id" tvg-name="Kompas TV (720p)" tvg-logo="" group-title="Indonesia",Kompas TV (720p)
 https://live-kg.jixie.media/live/kompastv_lhd.m3u8
+
 #EXTINF:-1 tvg-id="NET.id" tvg-name="NET. (480p) [Geo-blocked]" tvg-logo="" group-title="Indonesia",NET. (480p) [Geo-blocked]
 http://210.210.155.37/qwr9ew/s/s08/index.m3u8
+
 #EXTINF:-1 tvg-id="NET.id" tvg-name="NET. (576p)" tvg-logo="" group-title="Indonesia",NET. (576p)
 https://bravo.kugo.id/nettv/udp.stream/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="NET.id" tvg-name="NET. [Not 24/7]" tvg-logo="" group-title="Indonesia",NET. [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/user/NetInsights/live
+
 #EXTINF:-1 tvg-id="RCTV.id" tvg-name="RCTV (576p) [Not 24/7]" tvg-logo="" group-title="Indonesia",RCTV (576p) [Not 24/7]
 https://v10.siar.us/rctv/live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RCTV.id" tvg-name="RCTV (720p) [Not 24/7]" tvg-logo="" group-title="Indonesia",RCTV (720p) [Not 24/7]
 http://122.248.43.138:1935/ch9/myStream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="RajawaliTV.id" tvg-name="RTV (480p) [Geo-blocked]" tvg-logo="" group-title="Indonesia",RTV (480p) [Geo-blocked]
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
+
 #EXTINF:-1 tvg-id="RajawaliTV.id" tvg-name="RTV (576p) [Geo-blocked]" tvg-logo="" group-title="Indonesia",RTV (576p) [Geo-blocked]
 http://210.210.155.37/dr9445/h/h10/index.m3u8
+
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV (480p) [Geo-blocked]" tvg-logo="" group-title="Indonesia",SCTV (480p) [Geo-blocked]
 http://210.210.155.35/qwr9ew/s/s03/index.m3u8
+
 #EXTINF:-1 tvg-id="SinemaIndonesiaX.id" tvg-name="Sinema Indonesia X (576p)" tvg-logo="" group-title="Indonesia",Sinema Indonesia X (576p)
 https://bravo.kugo.id/live/sindox.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="SpacetoonIndonesia.id" tvg-name="Spacetoon Indonesia (576p)" tvg-logo="" group-title="Indonesia",Spacetoon Indonesia (576p)
 https://bravo.kugo.id/spacetoon/udp.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV (720p)" tvg-logo="" group-title="Indonesia",Trans TV (720p)
 https://video.detik.com/transtv/smil:transtv-live.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV (720p)" tvg-logo="" group-title="Indonesia",Trans TV (720p)
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans7 (720p)" tvg-logo="" group-title="Indonesia",Trans7 (720p)
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="KompasTV.id" tvg-name="Kompas TVV (720p)" tvg-logo="" group-title="Indonesia",Kompas TVV (720p)
 http://playlist.urfan.web.id/qwr9ew/s/s104/01.m3u8
+
 #EXTINF:-1 tvg-id="METROTV.id" tvg-name="MetroTV" tvg-country="ID" tvg-language="Indonesia" tvg-logo="https://i.postimg.cc/fbKRsK2T/image.png" group-title="News",MetroTV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVRINasional.id" tvg-name="TVRI Nasional" tvg-country="ID" tvg-language="Indonesia" tvg-logo="https://i.postimg.cc/pVghqs3g/image.png" group-title="General",TVRI Nasional
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
