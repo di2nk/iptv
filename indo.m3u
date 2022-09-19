@@ -28,7 +28,7 @@ https://d322b885qvsbxg.cloudfront.net/GTV2021.m3u8
 
 #EXTINF:-1 tvg-id="Inews.id" tvg-name="INews (720p)" tvg-logo="" group-title="Indonesia",INews (720p)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/tv/inews
-https://d2hfpzcndkyscp.cloudfront.net/INEWS_2021.m3u8
+http://52.85.114.125/INEWS_2021.m3u8
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar (480p) [Geo-blocked]" tvg-logo="" group-title="Indonesia",Indosiar (480p) [Geo-blocked]
 http://210.210.155.37/qwr9ew/s/s04/index.m3u8
